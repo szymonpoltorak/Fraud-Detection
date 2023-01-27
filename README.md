@@ -7,3 +7,4 @@ Project created during classes of *Podstawy Analizy i Reprezentacji Danych* duri
 * Adrian Nowosielski
 * Cezary Skorupski
 * Szymon Półtorak
+
